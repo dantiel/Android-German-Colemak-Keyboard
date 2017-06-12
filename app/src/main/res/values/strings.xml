@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Colemak iG</string>
+    <string name="simple_ime">Simple IME</string>
+    <string name="subtype_de_DE">Deutsch (DE)</string>
+</resources>
